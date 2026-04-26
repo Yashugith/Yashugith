@@ -116,7 +116,7 @@ class Yashaswini:
 <div align="center">
 
 ### 💼 Open to Internships & Full-Time Roles in AI/ML!
-### 📩 Reach me at → **your.email@gmail.com**
+### 📩 Reach me at → **yashucareerconnect.email@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
 
